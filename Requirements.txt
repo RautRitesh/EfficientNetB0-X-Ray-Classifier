@@ -1,0 +1,5 @@
+Our model is used to classify the "Chest-X-ray" images  to  "Normal", or containing pneumonia("Bacterial","viral").
+The requirements are:tensorflow, matplotlib,some x-ray images , download the "good_model.h5" and its corresponding weights "weights.weights.h5".
+Based on "How_to_use_model.ipynb"  google colab file run the code.
+As this is done for doing prediction and for visualizing the output. So , we recommend to use google colab or jupyter notebook.
+However , if want to create a own model by doing training yourself then we recommend to use Pneumonia_or_not.ipynb google colab file
